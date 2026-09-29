@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Career &amp; MBTI Personality Matcher | Best Jobs for Your Personality Type</title>
+  <title>Career Interest Test | Find Jobs That Match Your Interests</title>
   <link>https://us-career-personality-match.enjoy-onepage.com/</link>
-  <description>Find high-paying careers, remote job fits, and workplace strengths matched to your 16 personality types.</description>
+  <description>Check the work activities you would like to do, see your top three interest areas and browse careers that match them by how much preparation they need.</description>
   <language>en-us</language>
   <atom:link href="https://us-career-personality-match.enjoy-onepage.com/rss.xml" rel="self" type="application/rss+xml" />
-  <lastBuildDate>Tue, 29 Sep 2026 06:01:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 21:21:32 +0000</lastBuildDate>
   <item>
-    <title>Disclaimer | Career &amp; MBTI Personality Matcher | Best Jobs for Your Personality Type</title>
+    <title>Disclaimer | Career Interest Test</title>
     <link>https://us-career-personality-match.enjoy-onepage.com/disclaimer.html</link>
     <guid isPermaLink="true">https://us-career-personality-match.enjoy-onepage.com/disclaimer.html</guid>
-    <description>Disclaimer | Career &amp; MBTI Personality Matcher | Best Jobs for Your Personality Type</description>
-    <pubDate>Sun, 20 Sep 2026 22:07:56 +0900</pubDate>
+    <description>Disclaimer for the Career Interest Test.</description>
+    <pubDate>Tue, 29 Sep 2026 21:21:32 +0000</pubDate>
   </item>
   <item>
-    <title>Terms of Service | Career &amp; MBTI Personality Matcher | Best Jobs for Your Personality Type</title>
-    <link>https://us-career-personality-match.enjoy-onepage.com/terms.html</link>
-    <guid isPermaLink="true">https://us-career-personality-match.enjoy-onepage.com/terms.html</guid>
-    <description>Terms of Service | Career &amp; MBTI Personality Matcher | Best Jobs for Your Personality Type</description>
-    <pubDate>Sun, 20 Sep 2026 22:07:56 +0900</pubDate>
-  </item>
-  <item>
-    <title>Privacy Policy | Career &amp; MBTI Personality Matcher | Best Jobs for Your Personality Type</title>
+    <title>Privacy Policy | Career Interest Test</title>
     <link>https://us-career-personality-match.enjoy-onepage.com/privacy.html</link>
     <guid isPermaLink="true">https://us-career-personality-match.enjoy-onepage.com/privacy.html</guid>
-    <description>Privacy Policy | Career &amp; MBTI Personality Matcher | Best Jobs for Your Personality Type</description>
-    <pubDate>Sun, 20 Sep 2026 22:07:56 +0900</pubDate>
+    <description>Privacy Policy for the Career Interest Test.</description>
+    <pubDate>Tue, 29 Sep 2026 21:21:32 +0000</pubDate>
+  </item>
+  <item>
+    <title>Terms of Service | Career Interest Test</title>
+    <link>https://us-career-personality-match.enjoy-onepage.com/terms.html</link>
+    <guid isPermaLink="true">https://us-career-personality-match.enjoy-onepage.com/terms.html</guid>
+    <description>Terms of Service for the Career Interest Test.</description>
+    <pubDate>Tue, 29 Sep 2026 21:21:32 +0000</pubDate>
   </item>
 </channel>
 </rss>
